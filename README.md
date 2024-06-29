@@ -24,6 +24,8 @@ Interpreting user needs requires effective communication and an understanding of
 
 ### How do I approach designing software?
 My approach to software design begins with a thorough understanding of the problem domain and defining clear, concise requirements. I focus on creating a scalable and maintainable architecture by employing modular design principles. This involves breaking down the system into smaller, manageable components that can be developed, tested, and maintained independently. I utilize design patterns that best fit the problem context, ensuring that the software is flexible and adaptable to future requirements. This structured approach not only enhances the robustness of the application but also facilitates easier troubleshooting and updates, contributing to long-term sustainability and efficiency.
+
+
 ---
 
 Feel free to explore the project and reflection included in this repository to gain insights into my software development and testing practices.
